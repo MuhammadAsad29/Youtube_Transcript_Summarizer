@@ -1,7 +1,5 @@
 # ⚡ YouTube Transcript Summarizer
 
-<div align="center">
-
 ---
 
 ## 🚀 What It Does
