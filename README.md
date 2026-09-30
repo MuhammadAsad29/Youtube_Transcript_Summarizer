@@ -43,6 +43,8 @@ No manual reading. No scrubbing through videos. Just the information you need.
 - Reading time saved %
 - Total processing time
 
+### 🖥️ Live Demo: https://youtubetranscriptsummarizer-45ueappeladrsdbcemgwgp.streamlit.app/
+
 ---
 
 ## 🛠️ Installation
